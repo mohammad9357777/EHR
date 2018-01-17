@@ -11,7 +11,7 @@ package com.top.ehr;
  */
 public class Main {
     private String s="";
-    private String ppo6="";
+    private String ppo22="";
 
     public String getS() {
         return s;
